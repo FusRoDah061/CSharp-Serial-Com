@@ -1,0 +1,14 @@
+F:\CPDB\Algoritmos e Ling. Prog\C#\SerialComm\SerialComm\bin\Debug\SerialComm.exe
+F:\CPDB\Algoritmos e Ling. Prog\C#\SerialComm\SerialComm\bin\Debug\SerialComm.pdb
+F:\CPDB\Algoritmos e Ling. Prog\C#\SerialComm\SerialComm\bin\Debug\Modbus.dll
+F:\CPDB\Algoritmos e Ling. Prog\C#\SerialComm\SerialComm\bin\Debug\Modbus.Extensions.dll
+F:\CPDB\Algoritmos e Ling. Prog\C#\SerialComm\SerialComm\bin\Debug\log4net.dll
+F:\CPDB\Algoritmos e Ling. Prog\C#\SerialComm\SerialComm\bin\Debug\Unme.Common.dll
+F:\CPDB\Algoritmos e Ling. Prog\C#\SerialComm\SerialComm\obj\x86\Debug\SerialComm.csprojResolveAssemblyReference.cache
+F:\CPDB\Algoritmos e Ling. Prog\C#\SerialComm\SerialComm\obj\x86\Debug\SerialComm.Form1.resources
+F:\CPDB\Algoritmos e Ling. Prog\C#\SerialComm\SerialComm\obj\x86\Debug\SerialComm.Properties.Resources.resources
+F:\CPDB\Algoritmos e Ling. Prog\C#\SerialComm\SerialComm\obj\x86\Debug\SerialComm.csproj.GenerateResource.Cache
+F:\CPDB\Algoritmos e Ling. Prog\C#\SerialComm\SerialComm\obj\x86\Debug\SerialComm.exe
+F:\CPDB\Algoritmos e Ling. Prog\C#\SerialComm\SerialComm\obj\x86\Debug\SerialComm.pdb
+D:\Usuários\Allex\Desktop\GitHub\SerialComm\SerialComm\obj\x86\Debug\SerialComm.exe
+D:\Usuários\Allex\Desktop\GitHub\SerialComm\SerialComm\obj\x86\Debug\SerialComm.pdb
